@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# Data
+*.csv
+*.json
+
+# Local config
+config.py
+api_key.txt
+
